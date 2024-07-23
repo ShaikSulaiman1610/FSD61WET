@@ -1,0 +1,10 @@
+{
+    	 "name":"shaik",
+         "age":23,
+    	 "language":"['tamil','english','arabic','malayalam']",
+    	 "address":{
+    	        "street":"sethu raja street",
+    	        "city":"kayalpatinam",
+    	        "state":"tamilnadu"
+    	           }
+}
